@@ -4,6 +4,6 @@ Archivos de audio
 
 Link para terminal de estuary
 
-!reslist "paste-url"
+!reslist "https://theraserb.github.io/jv-estuary/Audio/samples.json"
 
 
