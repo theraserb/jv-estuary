@@ -1,2 +1,7 @@
 # jv-estuary
-Prueba de carga de audio para estuary
+Ejercicio de carga de archivos
+
+[VIDEOS](Video/README.md)
+[IMÁGENES](Img/README.md)
+[AUDIOS](Audio/README.md)
+
